@@ -1,0 +1,1 @@
+export const APP_API_URL="https://localhost:44326/"
